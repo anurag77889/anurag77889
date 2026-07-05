@@ -1,11 +1,11 @@
 # Hi 👋 I'm Anurag Swarnakar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer)](https://git.io/typing-svg)
 ------------------------------------------------------------------------
 
 ## 🚀 About Me
 
-I'm a backend-focused developer from India who enjoys building scalable
+I'm a software engineer primarily focusing on the backend who enjoys building scalable
 APIs, clean backend architectures, and production-ready applications.
 
 -   🔭 Currently building **ML Monitoring API**
@@ -14,7 +14,7 @@ APIs, clean backend architectures, and production-ready applications.
 -   🧠 Practicing **Data Structures & Algorithms in Python**
 -   🎯 Goal: Become a Backend Engineer building reliable, scalable
     systems.
--   🤝 Open to Backend Engineering opportunities.
+-   🤝 Open to SDE-1, SDE-2 opportunities.
 
 ------------------------------------------------------------------------
 
