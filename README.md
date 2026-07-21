@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-I'm a software engineer primarily focusing on the backend who enjoys building scalable
+I'm a software engineer who enjoys building scalable
 APIs, clean backend architectures, and production-ready applications.
 
 -   🔭 Currently building **ML Monitoring API**
