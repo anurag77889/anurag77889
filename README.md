@@ -12,8 +12,7 @@ APIs, clean backend architectures, and production-ready applications.
 -   🌱 Learning **Docker, System Design, AWS and CI/CD**
 -   💻 Primary Stack: **Python, FastAPI, Django, PostgreSQL, Redis**
 -   🧠 Practicing **Data Structures & Algorithms in Python**
--   🎯 Goal: Become a software engineer building reliable, scalable
-    systems.
+-   🎯 Goal: Become a software engineer building reliable, scalable and secure systems.
 -   🤝 Open to SDE-1, SDE-2 opportunities.
 
 ------------------------------------------------------------------------
