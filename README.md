@@ -41,7 +41,6 @@ APIs, clean backend architectures, and production-ready applications.
 <img src="https://iconic-api.onrender.com/dark/mysql" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/postgresql" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/mongodb" width="48px" />
-<img src="https://iconic-api.onrender.com/dark/redis" width="48px" />
 <div>
   
 ### Dev Tools
