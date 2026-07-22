@@ -48,6 +48,7 @@ APIs, clean backend architectures, and production-ready applications.
 <div style="display: flex; gap: 2px; align-items: center;">
 <img src="https://iconic-api.onrender.com/dark/git" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/github" width="48px" />
+<img src="https://iconic-api.onrender.com/dark/postman" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/linux" width="48px" />
 <img src="https://iconic-api.onrender.com/dark/vscode" width="48px" />
 <div>
